@@ -1,0 +1,19 @@
+{
+  "name": "grpc-vagrant-issue",
+  "version": "1.0.0",
+  "description": "Demo of issue 650 in grpc/grpc-node repo on GitHub",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marshmellow1328/grpc-vagrant-issue.git"
+  },
+  "keywords": [
+    "grpc",
+    "vagrant",
+    "npm"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/marshmellow1328/grpc-vagrant-issue#readme",
+  "dependencies": {
+    "firebase": "5.5.8"
+  }
+}
